@@ -1,0 +1,20 @@
+{
+  "name": "node_1proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.21.2",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.10.0",
+    "nodemon": "^3.1.9",
+    "parser": "^0.1.4"
+  }
+}
